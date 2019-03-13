@@ -1,2 +1,2 @@
 # first-project
-ketan singh
+print('the first program')
